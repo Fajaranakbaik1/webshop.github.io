@@ -1,0 +1,31 @@
+@media screen and (max-width: 652px){
+    .content-pertama-bag2 img {
+        display: flex;
+        width: 150px;
+        height: 150px;
+        margin: 0;
+        padding: 0;
+    }
+    .content-pertama-bag1  h1 {
+        padding: 0;
+        margin: 0;
+
+    }
+    .content-pertama-bag1 img{
+        width: 200px;
+    }
+    .image-1 img{
+        width: 200px;
+    }
+    .tombol-teks {
+        margin: 0;
+    }
+    .button {
+        display: flex;
+        margin: 0;
+        justify-content: center;
+    }
+    .content-pertama-bag1 h1{
+        font-size: 4        0px;
+    }
+}
