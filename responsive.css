@@ -47,9 +47,6 @@
     .image-sejajar b{
         font-size: 10px;
     }
-    .image-sejajar p{
-        /* font-size: 10px; */
-    }
     .header-list ul{
         gap: 20px;
     }
@@ -57,6 +54,6 @@
         font-size: 13px;
     }
     .sejajar3 {
-        gap: 10px;
+        gap: 20px;
     }
 }
